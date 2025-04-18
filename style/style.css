@@ -41,6 +41,12 @@ body {
   font-size: 4.5rem;
 }
 
+
+h2.one {
+  font-size: 3rem;
+}
+
+
 .one > img {
   vertical-align: middle;
   margin-bottom: 10px;
@@ -162,6 +168,13 @@ body {
   fill: #bd6ecf;
 }
 
+.wrap-name {
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+
 .eight svg:nth-child(2) {
   top: 23vh;
   left: 35vw;
@@ -214,6 +227,7 @@ body {
   font-size: 3em;
   margin: 0;
   text-transform: uppercase;
+  color: #ADD8E6;
 }
 
 .wish h5 {
